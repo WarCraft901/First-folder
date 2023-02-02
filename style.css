@@ -1,0 +1,13 @@
+.header li{
+
+    display: inline;
+    text-decoration: none;      
+    font-size: large;
+    font-family: left;
+    
+    
+}
+
+li a{
+text-decoration: none;
+}
